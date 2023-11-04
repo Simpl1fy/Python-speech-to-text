@@ -1,0 +1,9 @@
+Note*  I am using python 3.12
+Important Installations before you run the code
+
+
+Installing SpeechRecognition module
+pip install SpeechRecognition
+
+Installing PyAudio
+pip install PyAudio
